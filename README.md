@@ -1,16 +1,10 @@
-# fitness
+# Fitness tracker made in flutter
 
-A new Flutter project.
+### Still in progress app is not conected to data base
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/poteznyszymon/flutter_fitness_tracker/assets/77408864/ab2e3e67-12f1-4481-bf8f-d87dd831df56)
+![2](https://github.com/poteznyszymon/flutter_fitness_tracker/assets/77408864/86c9e225-7a07-41bf-bcd4-59d27f6890c2)
+![3](https://github.com/poteznyszymon/flutter_fitness_tracker/assets/77408864/c55e6a15-2023-4443-a430-a29b11e713d4)
+![4](https://github.com/poteznyszymon/flutter_fitness_tracker/assets/77408864/bb1c727f-483c-4b0d-bfd9-06902f996777)
+![5](https://github.com/poteznyszymon/flutter_fitness_tracker/assets/77408864/34da12aa-0433-4c6c-a802-5fcb01fa2c70)
